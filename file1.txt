@@ -1,0 +1,33 @@
+# AWS S3 Resume Website
+
+## Project Overview
+This project is a static resume website hosted using AWS S3 Static Website Hosting.
+
+## Technologies Used
+- HTML
+- CSS
+- AWS S3
+- Git
+- GitHub
+
+## Features
+- Responsive resume website
+- Static website hosting using AWS S3
+- Public bucket policy configuration
+- Simple and lightweight architecture
+
+## Steps Implemented
+1. Created S3 bucket
+2. Enabled static website hosting
+3. Uploaded HTML and CSS files
+4. Configured bucket policy
+5. Hosted website publicly
+
+## Future Improvements
+- Add CloudFront CDN
+- Add custom domain
+- Add HTTPS
+- Automate deployment using GitHub Actions
+
+## Author
+Nithin Kalyan
